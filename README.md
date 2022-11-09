@@ -1,4 +1,5 @@
 # Teals( Level 1 Heading)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s9114664/Teals/HEAD)
 This is my repo for **Introduction to Software Technologies**
 
 ##Second level Header
